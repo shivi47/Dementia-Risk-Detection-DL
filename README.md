@@ -180,17 +180,13 @@ You will also need to have the following packages installed:
 
 
 
-\section{Acknowledgements}
+## Acknowledgements
 
 We would like to thank Amy Jang from the Kaggle tutorial [8] for the framework of the code that we used. 
 
+## References
 
-\section*{References}
 
-\medskip
-
-{
-\small
 [1] Al-Khuzhaie, F. E. K., et al.: Diagnosis of Alzheimer Disease Using 2D MRI SLices by Convolutional Neural Network. Applied Bionics and Biomechanics, Hindawi  (2021) https://www.doi.org/10.1155/2021/6690539
 
 [2] Alzheimer's Disease and Healthy Aging Data. Centers for Disease Control and Prevention. https://chronicdata.cdc.gov/Healthy-Aging/Alzheimer-s-Disease-and-Healthy-Aging-Data/hfr9-rurv
